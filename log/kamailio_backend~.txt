@@ -1,0 +1,5 @@
+
+Version 1.0.0
+=============
+20230717 14:40:05.915 [   ][332457713400   ][     ][->] POST /createCdr {"CallerIDNumber":"123456","CalledNumber":"987654","SIPCallID":"abc123","RemoteIPAddress":"192.168.0.1","Direction":"Outgoing","CallStartDatetime":"2022-01-01 09:00:00","CallAnswerDatetime":"2022-01-01 09:01:00","CallEndDatetime":"2022-01-01 09:05:00","Duration":300,"BillSecond":280,"ProgressSecond":30,"AnswerSecond":15,"WaitSecond":5,"HangupCause":"Normal Clearing","HangupCauseQ850":"16","SipHangupDisposition":"completed","UUID":"xyz789","BLegUUID":"456def"}
+20230717 14:40:05.935 [   ][332457713400   ][     ][<-] POST /createCdr {"errorCode":"000","errorMessage":"success"}

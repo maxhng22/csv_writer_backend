@@ -1,0 +1,11 @@
+
+Version 1.0.0
+=============
+20230717 10:47:51.108 [   ][318721643500   ][     ][->] POST /createCdr {"CallerIDNumber":"callerId","CalledNumber":"callerNum","SIPCallID":"88","Direction":"11"}
+20230717 10:47:51.114 [   ][318721643500   ][     ][<-] POST /createCdr {"errorCode":"000","errorMessage":"success"}
+20230717 10:48:03.464 [   ][318090591700   ][     ][->] POST /createCdr {"CallerIDNumber":"callerId","CalledNumber":"callerNum","SIPCallID":"88","Direction":"11"}
+20230717 10:48:03.469 [   ][318090591700   ][     ][<-] POST /createCdr {"errorCode":"000","errorMessage":"success"}
+20230717 10:48:04.385 [   ][318013130000   ][     ][->] POST /createCdr {"CallerIDNumber":"callerId","CalledNumber":"callerNum","SIPCallID":"88","Direction":"11"}
+20230717 10:48:04.388 [   ][318013130000   ][     ][<-] POST /createCdr {"errorCode":"000","errorMessage":"success"}
+20230717 10:48:04.993 [   ][318621279500   ][     ][->] POST /createCdr {"CallerIDNumber":"callerId","CalledNumber":"callerNum","SIPCallID":"88","Direction":"11"}
+20230717 10:48:04.996 [   ][318621279500   ][     ][<-] POST /createCdr {"errorCode":"000","errorMessage":"success"}

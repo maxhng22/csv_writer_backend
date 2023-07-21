@@ -1,0 +1,5 @@
+
+Version 1.0.0
+=============
+20230717 10:46:05.179 [   ][318692407500   ][     ][->] POST /createCdr {"CallerIDNumber":"callerId","CalledNumber":"callerNum","SIPCallID":"88","Direction":"11"}
+20230717 10:46:05.188 [   ][318692407500   ][     ][<-] POST /createCdr {"errorCode":"000","errorMessage":"success"}

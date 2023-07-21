@@ -1,0 +1,19 @@
+{
+  "name": "cdr",
+  "version": "1.0.0",
+  "description": "backend for kamailio cdr",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "max",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "csv-writer": "^1.6.0",
+    "express": "^4.18.2",
+    "node-string-pad": "^0.0.4"
+  }
+}
